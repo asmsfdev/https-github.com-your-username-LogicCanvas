@@ -2,6 +2,8 @@
 
 **AI-Powered STEM Simulations for Teacher-Led Discovery**
 
+**Source:** [GitHub repository](https://github.com/asmsfdev/https-github.com-your-username-LogicCanvas)
+
 LogicCanvas helps teachers turn an abstract Physics, Mathematics, or Core Engineering concept into an interactive, classroom-ready visual model. Students adjust meaningful variables, observe the model respond, and use guided prompts to explain the evidence they see.
 
 The project is built for a practical classroom constraint: teachers need a clear way to make difficult concepts visible without relying on expensive physical lab equipment or switching between multiple disconnected tools.
