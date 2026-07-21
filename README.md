@@ -10,7 +10,7 @@ Abstract STEM ideas are difficult to teach when students cannot see cause and ef
 
 ## Judge Demo
 
-1. Run the app and open `Snell's Law Explorer` or `Projectile Motion Lab`.
+1. Run the app and open `Vector Field` or `Newton's law`.
 2. Move a slider and observe the live canvas model update.
 3. Read `Live Observation` and `Explain This` to connect the change to the science.
 4. Open Teacher Workspace to inspect challenge answers, lesson materials, and PDF export.
