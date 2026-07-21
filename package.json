@@ -1,0 +1,14 @@
+{
+  "name": "logiccanvas-edu",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "serve": "node server.js",
+    "check": "node --check app.js && node --check runtime-sdk.js && node --check server.js && node --check backend/logicCanvasContract.js && node --check backend/orchestrationHandler.js && node --check backend/openaiReasoning.js && node --check backend/codexCompiler.js"
+  },
+  "dependencies": {
+    "openai": "^6.48.0",
+    "zod": "^3.23.8"
+  }
+}
