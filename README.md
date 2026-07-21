@@ -8,6 +8,14 @@ LogicCanvas turns Physics, Mathematics, and Core Engineering concepts into inter
 
 Abstract STEM ideas are difficult to teach when students cannot see cause and effect. LogicCanvas gives teachers a reusable digital lab that combines a live HTML5 Canvas model with lesson materials, checks for understanding, and printable student handouts.
 
+## Classroom Impact
+
+**For teachers:** LogicCanvas shortens lesson preparation by bringing the model, explanatory prompts, challenge questions, and printable handout into one workspace. A teacher can explore a concept before class, choose the questions that fit the lesson, and use live controls to make cause and effect visible during instruction.
+
+**For students:** Changing a control produces an immediate visual response and a matching explanation. This helps students move from memorising an equation to observing a relationship, making a prediction, testing it, and supporting an explanation with evidence from the model.
+
+The current MVP is designed around the teacher persona and uses curated mock lesson data for a reliable, no-setup demo. A production version can ground GPT-5.6 reasoning with a retrieval layer over vetted STEM databases and digital textbooks. That workflow would supply sourced instructional context to the model, which would produce a validated specification for a trusted renderer, dynamic controls, and contextual explanations. The goal is to give teachers more time to teach while making complex STEM concepts more engaging and easier to investigate.
+
 ## Judge Demo
 
 1. Run the app and open `Snell's Law Explorer` or `Projectile Motion Lab`.
