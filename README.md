@@ -3,7 +3,7 @@
 **AI-Powered STEM Simulations for Teacher-Led Discovery**
 
 LogicCanvas turns Physics, Mathematics, and Core Engineering concepts into interactive, classroom-ready visual models. Teachers choose a lesson or enter a concept, students adjust meaningful variables, and the app connects each visible change to an explanation, equation, and guided activity.
-Demo video: https://youtu.be/iTpqo092aNI
+Demo video: https://youtu.be/hi8RtXghowE
 
 ## Why LogicCanvas
 
